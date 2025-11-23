@@ -26,10 +26,10 @@ E-commerce data often sits across multiple tables, making it difficult to quickl
 - What trends are emerging month-to-month or quarter-to-quarter?
 - Where can profitability be improved?
 
-- Goal of the Dashboard: To create an analytical workspace that visualizes key KPIs, uncovers product performance patterns, tracks sales and profit trends over time, highlights regional strengths and weaknesses, and supports strategic decisions across pricing, marketing, and inventory.
+. Goal of the Dashboard: To create an analytical workspace that visualizes key KPIs, uncovers product performance patterns, tracks sales and profit trends over time, highlights regional strengths and weaknesses, and supports strategic decisions across pricing, marketing, and inventory.
 
-- Walkthrough of Key Visuals:
-KPI Summary Cards
+. Walkthrough of Key Visuals:
+. KPI Summary Cards
 - Displays total sales, total profit, total orders, average order value, and profit margin — providing an instant snapshot of business health.
 - Sales Trend Over Time (Line Chart).
 - Shows revenue and order volume changes across months/quarters, revealing growth patterns and seasonality.
