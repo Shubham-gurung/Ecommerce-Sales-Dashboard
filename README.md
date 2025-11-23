@@ -9,7 +9,7 @@ The Sales Dashboard provides a comprehensive view of key e-commerce metrics incl
 - Power Query (data transformation and cleaning)
 - DAX (measures for sales, profit, margins, AOV, etc.)
 - Data Modeling (relationships between orders, products, customers, regions)
-Files: .pbix for source development, .png for snapshots
+ Files: .pbix for source development, .png for snapshots
 
 # 4. Data Source
 Based on a cleaned e-commerce dataset from a youtube video.
