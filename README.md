@@ -2,7 +2,7 @@
 A streamlined, interactive Power BI dashboard designed to analyze online store performance across sales, customers, categories, and regions. Built to help decision-makers understand revenue trends, optimize inventory, and improve strategic planning.
 
 # 2. Short Description / Purpose
-The Sales Dashboard provides a comprehensive view of key e-commerce metrics — including sales, profit, order volumes, and product/category performance — in an intuitive, interactive format. It is built for business owners, analysts, marketers, and students seeking clear data-driven insights.
+The Sales Dashboard provides a comprehensive view of key e-commerce metrics including sales, profit, order volumes, and product/category performance in an intuitive, interactive format. It is built for business owners, analysts, marketers, and students seeking clear data-driven insights.
 
 # 3. Tech Stack
 - Power BI Desktop
@@ -38,16 +38,16 @@ Walkthrough of Key Visuals:
 - Highlights performance across regions, making geographic comparisons straightforward.
 - Category/Sub-Category Performance
 - Visualizes which product categories drive revenue and margin.
-- Shipping & Operational Insights (If Included)
+- Shipping & Operational Insights (If Included).
 - Delivery times, shipping cost patterns, and order priorities.
 
 # 6. Business Impact & Insights
 
-- Improved demand forecasting via trend analysis
-- Better inventory management by identifying winning and weak categories
-- More effective customer targeting through segment insights
-- Stronger pricing and discount decisions via profit margin analysis
-- Clearer regional strategy through geographic performance tracking
+- Improved demand forecasting via trend analysis.
+- Better inventory management by identifying winning and weak categories.
+- More effective customer targeting through segment insights.
+- Stronger pricing and discount decisions via profit margin analysis.
+- Clearer regional strategy through geographic performance tracking.
 
 # 9. Screenshots
 Example: ![Dashboardpreview](https://github.com/Shubham-gurung/Ecommerce-Sales-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard.png)
